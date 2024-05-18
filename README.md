@@ -3,8 +3,8 @@
 I am a programmer, currently in FNF community. I like have fun with my friends
 ## SKILLS:
 * Programmer (3 yrs EXPERIENCE)
-* Spanish
-* English (B1)
+* Spanish (Native)
+* English (B1 Level)
 
 ## LANGUAGES AND TOOLS:
 <p align="left"> 
@@ -15,7 +15,7 @@ I am a programmer, currently in FNF community. I like have fun with my friends
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://www.haxe.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/MrMadera/MrMadera/main/icons/haxe.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haxe/haxe-original.svg" alt="Haxe" width="40" height="40"/>
   </a>
 </p>
 
