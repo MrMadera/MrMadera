@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm MrMadera!</h1>
+ - Programmer
+ - 3yrs EXPERIENCE
+ - ESP
+ - ENG (B1)
 <h3 align="left">Programmer<br>3 yrs <strong>EXPERIENCE</strong><br>ESP<br>ENG (B1)</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlVQ4GHe9G8DzRS/giphy.gif" width="300" height="150" alt="Coding GIF">
