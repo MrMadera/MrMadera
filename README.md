@@ -15,7 +15,7 @@ I am a programmer, currently in FNF community. I like have fun with my friends
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://www.haxe.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/MrMadera/MrMadera/main/icons/haxe.svg" alt="Blender" width="40" height="40"/>
   </a>
 </p>
 
@@ -25,7 +25,7 @@ I am a programmer, currently in FNF community. I like have fun with my friends
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.youtube.com/@mrmadera1235/featured" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
 </p>
 <p align="center">
