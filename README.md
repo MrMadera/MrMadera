@@ -18,6 +18,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
   </a>
   <a href="https://haxe.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/MrMadera/mrmadera6583572/main/icons/haxe.svg" alt="Unity" width="40" height="40"/>
   </a>
 </p>
