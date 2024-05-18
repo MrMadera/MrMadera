@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm MrMadera!</h1>
-<h3 align="center">FNF Programmer</h3>
+<h3 align="center">FNF Programmer
+                   ESP
+                   ENG (B1)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
