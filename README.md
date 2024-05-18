@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MrMadera!</h1>
-<h3 align="center">FNF Programmer \n ESP \n ENG (B1)</h3>
+<h3 align="center">FNF Programmer<br>ESP<br>ENG (B1)</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlVQ4GHe9G8DzRS/giphy.gif" width="300" height="150" alt="Coding GIF">
 </p>
