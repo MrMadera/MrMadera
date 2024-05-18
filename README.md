@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm MrMadera!</h1>
-<<<<<<< HEAD
-<h3 align="left">💻Programmer<br>🕧3 yrs <strong>EXPERIENCE</strong><br>ESP<br>ENG (B1)</h3>
+<h3 align="left">Programmer<br>3 yrs <strong>EXPERIENCE</strong><br>ESP<br>ENG (B1)</h3>
 <p align="center">
-=======
-<h3 align="left">💻Programmer<br>🕧3 yrs <strong>EXPERIENCE</strong><br>ESP<br>ENG (B1)</h3>
-<p align="center">
->>>>>>> 55970a56b7e71b6acb320296d19147bf609f52c1
   <img src="https://media.giphy.com/media/l0HlVQ4GHe9G8DzRS/giphy.gif" width="300" height="150" alt="Coding GIF">
 </p>
 <h3 align="left">🔗 Social medias:</h3>
