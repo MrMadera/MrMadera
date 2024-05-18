@@ -21,7 +21,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://media.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif" width="200" height="100" alt="Coding GIF">
-</p>
-Feel free to connect with me on my socials or check out my projects. Let's build something amazing together! 🚀
