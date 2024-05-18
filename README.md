@@ -18,8 +18,7 @@ I am a programmer, currently in FNF community. I like have fun with my friends
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   </a>
 </p>
-Connect with me:
-
+##SOCIAL MEDIAS:
 <p align="left">
   <a href="https://twitter.com/MrMadera" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
