@@ -5,6 +5,7 @@ I am a programmer, currently in FNF community. I like have fun with my friends
 * Programmer (3 yrs EXPERIENCE)
 * Spanish
 * English (B1)
+
 ## LANGUAGES AND TOOLS:
 <p align="left"> 
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
@@ -17,6 +18,7 @@ I am a programmer, currently in FNF community. I like have fun with my friends
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
   </a>
 </p>
+
 ## SOCIAL MEDIAS:
 <p align="left">
   <a href="https://twitter.com/MrMadera" target="_blank">
