@@ -2,10 +2,10 @@
 ## WHO AM I?
 I'm just a programmer. I'd like to study computer engineering in the future. I love meeting friends.
 ## MORE ABOUT ME:
-I'm 15 years old. 
-My birthday is on February 20th. 
-I love everything related to technology (especially computers). 
-I'm from Spain.
+I'm 15 years old.\n
+My birthday is on February 20th.\n
+I love everything related to technology (especially computers).\n
+I'm from Spain.\n
 ## SKILLS:
 * Programmer (3 yrs EXPERIENCE)
 * Spanish (Native)
