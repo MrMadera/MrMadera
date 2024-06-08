@@ -6,8 +6,11 @@ I'm just a programmer. I'd like to study computer engineering in the future. I l
 I'm 15 years old.
 
 My birthday is on February 20th.
+
 I love everything related to technology (especially computers).
+
 I'm from Spain.
+
 ## SKILLS:
 * Programmer (3 yrs EXPERIENCE)
 * Spanish (Native)
