@@ -1,6 +1,6 @@
 # Hi! I'm MrMadera!
-## WHO I AM?
-I am a programmer. I like have fun with my friends
+## WHO AM I?
+I'm just a programmer. I'd like to study computer engineering in the future. I love meeting friends.
 ## SKILLS:
 * Programmer (3 yrs EXPERIENCE)
 * Spanish (Native)
