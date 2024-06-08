@@ -1,6 +1,11 @@
 # Hi! I'm MrMadera!
 ## WHO AM I?
 I'm just a programmer. I'd like to study computer engineering in the future. I love meeting friends.
+## MORE ABOUT ME:
+I'm 15 years old
+My birthday is on 20th February
+I love whatever is relationed with technology (specially computers)
+I'm from Spain
 ## SKILLS:
 * Programmer (3 yrs EXPERIENCE)
 * Spanish (Native)
